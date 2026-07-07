@@ -1,6 +1,6 @@
 # Final Fantasy VI No Music IPS Patch
 
-No Music IPS Patch for Final Fantasy III/VI for the SNES. This works by patching the header for each song in the ROM to point to the Silence track's data (or lack there of). 
+No Music IPS Patch for Final Fantasy III/VI for the SNES. This works by patching the header for each song in the ROM to point to the Silence track's data (or lack there of). Tested on Final Fantasy III (USA) ROM (CRC32 A27F1C7A), and Worlds Collide randomizer using said ROM.
 
 I created this patch to be compatible with the Worlds Collide randomizer. I play it casually and use fast-forward a lot in emulators and got tired of hearing the music get garbled, so with this I can disable the music in-game and keep the sound effects while playing music externally. Felt kind of wrong silencing this wonderful OST <3
 
