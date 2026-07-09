@@ -6,3 +6,8 @@ I created this patch to be compatible with the Worlds Collide randomizer. I play
 
 Special thanks to the following resource:
 https://www.ff6hacking.com/wiki/doku.php?id=ff3:ff3us:doc:asm:list:music
+
+# Updates
+#### 1.1 Update
+
+Celes's Aria de mezzo caraterre performance requires music data or else the game freezes, so I updated the IPS patch to leave this one song unsilenced (sadly the song doesn't have a F4 byte instruction to control song volume as an alternative way to mute)
