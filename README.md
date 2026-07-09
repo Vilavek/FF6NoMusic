@@ -8,6 +8,10 @@ Special thanks to the following resource:
 https://www.ff6hacking.com/wiki/doku.php?id=ff3:ff3us:doc:asm:list:music
 
 # Updates
+
+#### 1.2 Update
+Cele's Aria de mezzo caraterre performance is once again silent while not freezing the game (using the F4 00 byte instruction to set the song volume to zero)
+
 #### 1.1 Update
 
-Celes's Aria de mezzo caraterre performance requires music data or else the game freezes, so I updated the IPS patch to leave this one song unsilenced (sadly the song doesn't have a F4 byte instruction to control song volume as an alternative way to mute)
+Celes's Aria de mezzo caraterre performance requires music data or else the game freezes, so I've temporarily updated the IPS patch to leave this one song unsilenced.
