@@ -9,6 +9,15 @@ https://www.ff6hacking.com/wiki/doku.php?id=ff3:ff3us:doc:asm:list:music
 
 # Updates
 
+#### 1.3 Update
+- Fix for game ending theme freezing
+- Added environment/ambience only version which skips muting specific tracks:
+    - Flowing water
+    - Wind
+    - Waves
+    - Phantom Train Stopping
+    - Burning House
+
 #### 1.2 Update
 Cele's Aria de mezzo caraterre performance is once again silent while not freezing the game (using the F4 00 byte instruction to set the song volume to zero)
 
